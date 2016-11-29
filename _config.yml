@@ -1,4 +1,5 @@
 permalink: /:categories/:title.html
+baseurl: /Website
 url: "http://johnwevansjr.github.io/Website/"
 full_name: "Saigon Jekyll Theme"
 first_name: "Just"
