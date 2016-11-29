@@ -1,6 +1,4 @@
-permalink: /:categories/:title.html
-baseurl: "/Website"
-url: "http://johnwevansjr.github.io/Website/"
+baseurl: /Website/
 full_name: "Saigon Jekyll Theme"
 first_name: "Just"
 last_name: "Me"
